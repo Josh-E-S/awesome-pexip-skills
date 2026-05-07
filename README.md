@@ -1,4 +1,7 @@
-# pexip-skills
+# awesome-pexip-skills
+
+[![lint](https://github.com/Josh-E-S/awesome-pexip-skills/actions/workflows/lint.yml/badge.svg)](https://github.com/Josh-E-S/awesome-pexip-skills/actions/workflows/lint.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 A Claude Code skill bundle for building [Pexip Infinity](https://www.pexip.com/) video calling apps.
 
@@ -49,22 +52,28 @@ Each skill includes a quick-start `SKILL.md`. Larger skills (`call-lifecycle`, `
 
 ## Install
 
+Clone the repo first:
+
+```bash
+git clone https://github.com/Josh-E-S/awesome-pexip-skills.git
+```
+
 ### As a Claude Code plugin
 
 ```bash
-/plugin install pexip --from-marketplace ./pexip-skills
+/plugin install pexip --from-marketplace ./awesome-pexip-skills
 ```
 
 ### Manually in a project
 
 ```bash
-cp -r pexip-skills/skills/* /path/to/your-project/.claude/skills/
+cp -r awesome-pexip-skills/skills/* /path/to/your-project/.claude/skills/
 ```
 
 ### As a global skill set
 
 ```bash
-cp -r pexip-skills/skills/* ~/.claude/skills/
+cp -r awesome-pexip-skills/skills/* ~/.claude/skills/
 ```
 
 ## How to use
