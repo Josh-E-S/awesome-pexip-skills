@@ -2,10 +2,12 @@
   <img src="./pexip.svg" width="80" alt="Pexip">
 </p>
 
-# awesome-pexip-skills
+<h1 align="center">awesome-pexip-skills</h1>
 
-[![lint](https://github.com/Josh-E-S/awesome-pexip-skills/actions/workflows/lint.yml/badge.svg)](https://github.com/Josh-E-S/awesome-pexip-skills/actions/workflows/lint.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+<p align="center">
+  <a href="https://github.com/Josh-E-S/awesome-pexip-skills/actions/workflows/lint.yml"><img src="https://github.com/Josh-E-S/awesome-pexip-skills/actions/workflows/lint.yml/badge.svg" alt="lint"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+</p>
 
 A Claude Code skill bundle for building [Pexip Infinity](https://www.pexip.com/) video calling apps.
 
