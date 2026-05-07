@@ -1,0 +1,17 @@
+{
+  "name": "pexip",
+  "version": "0.1.0",
+  "description": "Battle-tested patterns for building Pexip Infinity video calling apps. Reference implementations distilled from Pexip's webapp3 v40-12.0 covering call lifecycle, media pipeline, reconnect, preflight, and the signal/pub-sub architecture.",
+  "author": {
+    "name": "Josh Estrada"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pexip",
+    "infinity",
+    "webrtc",
+    "video-conferencing",
+    "@pexip/infinity",
+    "@pexip/media"
+  ]
+}

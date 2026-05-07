@@ -1,0 +1,11 @@
+{
+  "name": "pexip-skills",
+  "description": "Skill bundle for building Pexip Infinity video calling apps.",
+  "plugins": [
+    {
+      "name": "pexip",
+      "source": "./",
+      "description": "Battle-tested patterns from Pexip webapp3 v40-12.0 covering call lifecycle, media pipeline, reconnect, preflight, and the signal/pub-sub architecture."
+    }
+  ]
+}
