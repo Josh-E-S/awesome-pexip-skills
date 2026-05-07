@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./pexip.svg" width="120" alt="Pexip">
+</p>
+
 # awesome-pexip-skills
 
 [![lint](https://github.com/Josh-E-S/awesome-pexip-skills/actions/workflows/lint.yml/badge.svg)](https://github.com/Josh-E-S/awesome-pexip-skills/actions/workflows/lint.yml)
