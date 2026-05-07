@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pexip.svg" width="120" alt="Pexip">
+  <img src="./pexip.svg" width="80" alt="Pexip">
 </p>
 
 # awesome-pexip-skills
