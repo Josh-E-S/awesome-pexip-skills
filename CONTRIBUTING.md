@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest. This is an opinionated skill bundle for Pexip Infinity webapp3 patterns. Contributions welcome — especially corrections cited against the webapp3 source.
+PRs welcome — especially corrections cited against the webapp3 source.
 
 ## What makes a good PR
 

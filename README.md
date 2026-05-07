@@ -9,11 +9,9 @@
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
 
-A Claude Code skill bundle for building [Pexip Infinity](https://www.pexip.com/) video calling apps.
+Claude Code skills for building [Pexip Infinity](https://www.pexip.com/) video calling apps. Patterns reference Pexip's webapp3 v40-12.0.
 
-These skills distill patterns from Pexip's official **webapp3 v40-12.0** reference implementation: the production webapp Pexip ships with Pexip Infinity. The patterns are battle-tested in production.
-
-**17 skills, ~6,000 lines of distilled patterns.** New to webapp3? Read [`ARCHITECTURE.md`](./ARCHITECTURE.md) first.
+17 skills. New here? Read [`ARCHITECTURE.md`](./ARCHITECTURE.md) first.
 
 ## What's inside
 
@@ -112,11 +110,7 @@ If a skill *doesn't* fire when it should, the trigger description needs more spe
 | `@pexip/plugin-api` | Iframe RPC | plugin-host |
 | `@pexip/config-manager` | Reactive config store | branding-manifest |
 
-## Source extraction
-
-These patterns came from reverse-engineering webapp3 v40-12.0 via source maps. The original TypeScript source for **377 application files** + **540 SDK files** (17 internal `@pexip/*` packages) was reconstructable from the `.js.map` files included in the public webapp3 download.
-
-Each skill ends with a "Reference source" section listing the exact files the patterns came from, so you can verify against your own webapp3 version.
+Each skill ends with a "Reference source" section listing the file paths the patterns came from, so you can verify against your own webapp3 version.
 
 ## Versioning policy
 
@@ -135,4 +129,4 @@ MIT. See [`LICENSE`](./LICENSE).
 
 ## Contributing
 
-This is currently an opinionated personal/team library. PRs welcome if you find a pattern that's wrong or missing — please cite the webapp3 source line for the correction.
+PRs welcome — see [`CONTRIBUTING.md`](./CONTRIBUTING.md). If you're correcting a pattern, cite the webapp3 source line.

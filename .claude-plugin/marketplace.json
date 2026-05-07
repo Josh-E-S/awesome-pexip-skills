@@ -5,7 +5,7 @@
     {
       "name": "pexip",
       "source": "./",
-      "description": "Battle-tested patterns from Pexip webapp3 v40-12.0 covering call lifecycle, media pipeline, reconnect, preflight, and the signal/pub-sub architecture."
+      "description": "Skills for Pexip Infinity video calling apps. Covers call lifecycle, media pipeline, reconnect, preflight, signals, chat, participants, breakouts, layouts, plugin host. References webapp3 v40-12.0."
     }
   ]
 }

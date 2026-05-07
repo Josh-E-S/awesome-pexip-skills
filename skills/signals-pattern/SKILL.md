@@ -185,7 +185,7 @@ This pattern is **mandatory** if your handler does any async work — an unhandl
 
 ## Reference source
 
-Patterns extracted from webapp3 v40-12.0:
+webapp3 v40-12.0:
 - `src/signals/*.ts` — the 10 hub files
 - `src/services/InfinityClient.service.ts:306-324` — `createSignalHandler`
-- `pexip-sdks/signal/src/signal.ts` — the `createSignal` implementation
+- `@pexip/signal` — the `createSignal` implementation

@@ -293,7 +293,7 @@ Tiers are a *reading order suggestion*, not a code-organization boundary. All 16
 
 ## Pexip SDK version notes
 
-Patterns extracted from **webapp3 v40-12.0** (April 2026 build).
+These skills target **webapp3 v40-12.0** (April 2026 build).
 
 The SDKs evolve. Things most likely to change between versions:
 - `callType` string format (changed in v39 from numeric to descriptive)
@@ -308,9 +308,9 @@ When you upgrade `@pexip/*` packages:
 
 ## Where to verify if a skill goes stale
 
-Each skill ends with a "Reference source" section listing the exact files in webapp3 v40-12.0 that the patterns came from. To check if a pattern still applies in a newer version:
+Each skill ends with a "Reference source" section listing webapp3 file paths the patterns came from. To check if a pattern still applies in a newer version:
 
-1. Find the equivalent file in your version's webapp3 source maps (same extraction process as `.analysis/extracted-source/`)
+1. Find the equivalent file in your version of webapp3
 2. Diff against the file path the skill references
 3. If the pattern shape is unchanged → skill is current
 4. If the SDK API changed → update the skill's snippet, keep the architectural prose
