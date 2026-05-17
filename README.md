@@ -2,18 +2,19 @@
   <img src="./pexip.svg" width="80" alt="Pexip">
 </p>
 
-<h1 align="center">awesome-pexip-skills</h1>
+<h1 align="center">Awesome Pexip Skills</h1>
 
 <p align="center">
   <a href="https://github.com/Josh-E-S/awesome-pexip-skills/actions/workflows/lint.yml"><img src="https://github.com/Josh-E-S/awesome-pexip-skills/actions/workflows/lint.yml/badge.svg" alt="lint"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
 
-Claude Code skills for building [Pexip Infinity](https://www.pexip.com/) video calling apps. Patterns reference Pexip's webapp3 v40-12.0.
+Claude Code skills for building [Pexip Infinity](https://www.pexip.com/) video calling apps and more using Pexip Infinity.
+Patterns reference Pexip's webapp3 v40-12.0.
 
-17 skills. New here? Read [`ARCHITECTURE.md`](./ARCHITECTURE.md) first.
+17 skills. Start Here: Read [`ARCHITECTURE.md`](./ARCHITECTURE.md) first.
 
-## What's inside
+## What's inside, alot!
 
 ### Intake (fires on open-ended project requests)
 
